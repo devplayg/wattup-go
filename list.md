@@ -18,12 +18,10 @@
 
 ### push from feature-1
 
-my new stuff from feature-1
+### feature-1
 
-my new stuff from feature-1
+### feature-1
 
+### feature-1
 
-feature-1
-feature-1
-feature-1
-feature-1
+### feature-1
