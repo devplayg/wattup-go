@@ -1,27 +1,27 @@
+# push
 
+### from develop
 
-# git
+### from feature-1
 
-### push from develop
+### from develop
 
-### push from feature-1
+### from feature-1
 
-### push from develop
+### from develop
 
-### push from feature-1
+### from feature-1
 
-### push from develop
+### ---
 
-### push from feature-1
+### from develop
 
-### push from develop
+### from feature-1
 
-### push from feature-1
+### from feature-1
 
-### feature-1
+### from feature-1
 
-### feature-1
+### from feature-1
 
-### feature-1
-
-### feature-1
+### from feature-1
